@@ -3,37 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Abbey Phillips' Blog </title>
+   
 
   <div style="font-family: 'BubbleGum'">
   <h1 style="font-size:60px; text-align:center; color: #3F2322;">Abbey's Creative Coding Blog</h1>
 </head>
-
-<body style="background-color: #ffc5be;">
-
-<style>
-
-.week1 {
-  background-color: #ffe4b7;
-  color: #3F2322;
-  margin: 20px;
-  padding: 20px;
-}
-
-.week2 {
-  background-color: #ffe4b7;
-  color: #3F2322;
-  margin: 20px;
-  padding: 20px;
-}
-
-.week3 {
-  background-color: #ffe4b7;
-  color: #3F2322;
-  margin: 20px;
-  padding: 20px;
-}
-</style>
 
 <body>
 
@@ -43,9 +17,10 @@
   <h2 style="font-size:40px; text-align:left;"> 1a: Intro to Creative Coding </h2>
   <br>
   <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> 
-      <img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" />
       <br>
-      
+      <img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" /> </p>
+      <br>
+      <p>
       Rafaël Rozendaal's piece pinkyellowblue.com is composed of two coloured shapes slowly moving around the background that alternate colours when the circle and the square conflict with each other. Rewriting the code would require the background, circle and square, three colours, modify the positions, implement two colour changes, and then create a loop. 
   <br><br>
   Resources to help learning these concepts include: 
@@ -53,7 +28,7 @@
   <a href="https://p5js.org/">https://p5js.org/</a>
   <br>
   <a href="https://www.w3schools.com/java/">https://www.w3schools.com/java/</a>
-
+</p>
   <br><br>
   <h2 style="font-size:40px; text-align:left;"> 1b: What is Creative Coding? </h2>
    <br>
