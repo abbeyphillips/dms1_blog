@@ -1,9 +1,4 @@
-title: Abbey's blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
-disable_html_sanitization: true
-allow_math: true
----
-# This is h1
+Abbey's blog post!
+
 
 ![a drippy lemon](logo.svg)
