@@ -1,11 +1,3 @@
-This template was made via [this tutorial](https://deno.com/blog/build-a-blog-with-fresh).
----
-title: Abbey's blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
-disable_html_sanitization: true
-allow_math: true
----
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,15 +42,17 @@ allow_math: true
 <div class="week1">
   <h2 style="font-size:40px; text-align:left;"> 1a: Intro to Creative Coding </h2>
   <br>
-  <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> Rafaël Rozendaal's piece pinkyellowblue.com is composed of two coloured shapes slowly moving around the background that alternate colours when the circle and the square conflict with each other. Rewriting the code would require the background, circle and square, three colours, modify the positions, implement two colour changes, and then create a loop. 
+  <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> 
+      <img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" />
+      <br>
+      
+      Rafaël Rozendaal's piece pinkyellowblue.com is composed of two coloured shapes slowly moving around the background that alternate colours when the circle and the square conflict with each other. Rewriting the code would require the background, circle and square, three colours, modify the positions, implement two colour changes, and then create a loop. 
   <br><br>
   Resources to help learning these concepts include: 
   <br>
   <a href="https://p5js.org/">https://p5js.org/</a>
   <br>
   <a href="https://www.w3schools.com/java/">https://www.w3schools.com/java/</a>
-
-  <img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" />
 
   <br><br>
   <h2 style="font-size:40px; text-align:left;"> 1b: What is Creative Coding? </h2>
