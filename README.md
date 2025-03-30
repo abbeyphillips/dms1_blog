@@ -1,4 +1,3 @@
-<img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" />
 This template was made via [this tutorial](https://deno.com/blog/build-a-blog-with-fresh).
 ---
 title: Abbey's blog post!
@@ -59,7 +58,7 @@ allow_math: true
   <br>
   <a href="https://www.w3schools.com/java/">https://www.w3schools.com/java/</a>
 
-  <iframe src="https://editor.p5js.org/abbeyphillips/full/yVpH_WF3j"></iframe>
+  <img width="1243" alt="hw01" src="https://github.com/user-attachments/assets/d39e0c5b-829f-4f83-b8c0-b70bd72cc0c0" />
 
   <br><br>
   <h2 style="font-size:40px; text-align:left;"> 1b: What is Creative Coding? </h2>
