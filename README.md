@@ -78,7 +78,9 @@
   <br><br>
   <h2 style="font-size:40px; text-align:left;"> 2b: Kindred Spirits (& more javascript!) </h2>
    <br>
-  <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> Text </p>
+   <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> My kindred spirit is one of my close friends, Elise, who I met in ?2004? on the first day of kindergarten when we wore exactly the same dress. We’ve been friends ever since and she constantly inspires me through her determination, work ethic and inability to give anything less than 100% of her effort. Our common purpose would be supporting each other, feeling excited about the other person’s successes and providing comfort when necessary. Our shared adversary would be time, as our conflicting schedules prevent us from seeing each other as much as we would like. 
+  <br><br>
+  I’m aiming to create a sketch based on our childhood together, when we would see each other almost every day. I’ve changed my mind about the concept for my sketch and I want to create something based on the Nintendo DS ‘PictoChat’, which was a game that allowed users to sketch while chatting. Elise and I used to spend hours playing on it together after school, which could be replicated with a cute background and audio reminiscent of Nintendo DS games. </p>
   <br><br>
   </div> 
 
