@@ -104,7 +104,12 @@
   <br><br>
   <h2 style="font-size:40px; text-align:left;"> 3b: Redundancy, Style, & Refactorisation </h2>
    <br>
-  <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> Text </p>
+  <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> 
+  
+  
+  
+  <iframe src="https://editor.p5js.org/abbeyphillips/full/j8Hc44JQz"></iframe>
+   </p>
   <br><br>
   </div> 
 
