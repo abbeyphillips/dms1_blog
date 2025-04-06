@@ -1,6 +1,7 @@
+<head>
 <!DOCTYPE html>
 <html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Abbey Phillips' Blog </title>
@@ -96,6 +97,8 @@
   <p style="font-family: 'Helvetica'; font-size:20px; text-align:left;"> ‘Landscapes’ by Rafaël Rozendaal is cute because of the colour gradients, which change when you click on the screen. Admittedly, I find some of the landscapes are less cute due to the dark colours, but I enjoy the premise of being able to change the colours to suit your own personal taste. This reminds me of using those sticky contact book covers that I used in primary school to personalise my notebooks. I think nostalgia can make anything cute. 
 <br><br>
   Inspired by Rafaël Rozendaal’s piece, I created this pastel-coloured linear gradient background with two circles circulating around each other like time on a clock, which is supposed to symbolise my kindred spirit and I. This is visually cute, but I spent so much time trying to get the circles to move that I forgot to incorporate an interactive or sonic element. 
+
+  <br><br>
 
   <iframe src="https://editor.p5js.org/abbeyphillips/full/TVxTJKEC5"></iframe> </p>
   <br><br>
