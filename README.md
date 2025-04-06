@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Abbey Phillips' Blog </title>
    
-
   <div style="font-family: 'BubbleGum'">
   <h1 style="font-size:60px; text-align:center; color: #3F2322;">Abbey's Creative Coding Blog</h1>
 </head>
